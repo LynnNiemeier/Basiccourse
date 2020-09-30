@@ -1,10 +1,10 @@
 import turtle
 
 paper = turtle.Screen()
-paper.bgcolor("black")
+paper.bgcolor("blue")
 
 leonardo = turtle.Turtle()
-leonardo.color("gold")
+leonardo.color("hotpink")
 
 leonardo.left(40)
 leonardo.forward(80)
